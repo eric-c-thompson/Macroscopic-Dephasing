@@ -1,5 +1,11 @@
 # Macroscopic Dephasing in LMT Atom Interferometry from a Fixed-Cell Transport Model
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19186681.svg)](https://doi.org/10.5281/zenodo.19186681)
+
+**Author:** Eric Cole Thompson  
+**Contact:** ethompson06@gmail.com  
+
 **A Short Letter on the NDK Momentum-Quadratic Contrast Floor**
 
 This repository contains the LaTeX manuscript and companion Python tools for a phenomenological bridge between the Null-Directional Kinematics (NDK) transport framework and Large Momentum Transfer (LMT) atom interferometry.
@@ -32,7 +38,7 @@ If you use this code or reference the framework, please cite the corresponding Z
 
 ```bibtex
 @misc{thompson2026dephasing,
-  author    = {Thompson, E.},
+  author    = {Thompson, Eric Cole},
   title     = {Macroscopic Dephasing in LMT Atom Interferometry from a Fixed-Cell Transport Model: A Short Letter on the NDK Momentum-Quadratic Contrast Floor},
   year      = {2026},
   publisher = {Zenodo},
